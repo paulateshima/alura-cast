@@ -14,6 +14,7 @@ Projeto desenvolvido no curso da Formação da Plataforma Alura.
 * CSS3
 * Grid
 * Responsividade
+* Variáveis CSS
 
 ## Status do Projeto:
 
@@ -33,4 +34,4 @@ Este Projeto está sob a licença MIT.
 
 ## Acesso ao Projeto:
 
-Você pode acessar este Projeto 👉 [aqui](https://fruta-fruto-one-ruby.vercel.app/)
+Você pode acessar este Projeto 👉 [aqui](https://alura-cast-omega-seven.vercel.app/)
