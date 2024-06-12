@@ -1,0 +1,19 @@
+body {
+    display: grid;
+    grid-template-areas:
+    "aside header" /* fazem parte da primeira linha */
+    "aside main"; /* fazem parte da segunda linha */
+    grid-template-columns: auto 1fr; /* auto = aside e 1fr = 1 fração de (Total - aside) */
+}
+
+.cabecalho {
+    grid-area: header;
+}
+
+.menu-lateral {
+    grid-area: aside;
+}
+
+.principal {
+    grid-area: main;
+}
